@@ -37,3 +37,18 @@ excel-automation-tool/
 │
 └── exemplos/
     └── vendas.csv
+
+
+    # Excel Automation Tool
+
+Automatizador de planilhas desenvolvido em Python para limpeza, organização e análise de dados.
+
+## 📊 Dashboard
+
+![Dashboard do sistema](imagens/dashboard.png)
+
+## 📑 Relatório gerado
+
+![Relatório Excel](imagens/relatorio.png)
+
+## 🚀 Funcionalidades
